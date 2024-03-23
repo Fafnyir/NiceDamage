@@ -1,8 +1,8 @@
 ## Interface: 100206
-## Title: NiceDamage Redux
+## Title: NiceDamage-Redux
 ## DefaultState: Enabled
 ## Author: Montyburns
-## Version: 1.0.2
+## Version: 1.0.0
 ## Notes: Changes your damage font to something more festive :D
-## IconTexture: Interface\AddOns\NiceDamage /Redux\LogoAddon
+## IconTexture: Interface\AddOns\NiceDamage-Redux\LogoAddon
 NiceDamage.lua 
