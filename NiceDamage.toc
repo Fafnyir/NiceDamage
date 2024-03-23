@@ -1,5 +1,5 @@
 ## Interface: 100206
-## Title: NiceDamage
+## Title: Nice Damage (Redux)
 ## DefaultState: Enabled
 ## Author: Montyburns
 ## Version: 1.0
